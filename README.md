@@ -43,3 +43,8 @@ Siga as etapas abaixo para configurar o aplicativo:
 5. Ao selecionar a opção "Adicionar" ou "Atualizar", uma nova janela será exibida para inserir ou atualizar as informações do registro.
 6. Após executar qualquer ação, como adicionar ou atualizar registros, uma mensagem de confirmação será exibida.
 
+
+## Contribuidores 
+-Fabio Carciofi Junior 
+
+-Leonardo Vieira Maurino 
